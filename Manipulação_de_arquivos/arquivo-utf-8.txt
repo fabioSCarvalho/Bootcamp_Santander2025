@@ -1,0 +1,1 @@
+Aprendendo a manipulandor arquivo utilizando python.
